@@ -5,7 +5,7 @@
   "version": "1.0",
   "keywords": ["mautic","theme"],
   "extra": {
-    "install-directory-name": "goldstar"
+    "install-directory-name": "nature"
   },
   "minimum-stability": "dev",
   "require": {
